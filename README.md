@@ -8,7 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-![](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_ZMCtdnxcWu6CgrSXW_1636826106143_completion_certificate.pdf)
+![](https://github.com/niksAhlawat/JP_Morgan_Chase_Virtual_Internship/blob/master/JPMorgan Chase Virtual Internship Certification.png)
 
 ## For any queries/doubts:
 
